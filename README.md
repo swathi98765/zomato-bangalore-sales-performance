@@ -20,8 +20,8 @@ Excel | SQL | Python | Power BI
 - Whitefield is a high-revenue area despite fewer restaurants.
 
 ## Dashboard
-Below are sample screenshots from the Power BI dashboard:
-
+Below are sample screenshot from the Power BI dashboard:
+![Dashboard 1](dashboard/Dashboard 1 (2).jpg)
 
 
 ## How to Use
